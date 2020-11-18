@@ -1,2 +1,3 @@
 class Recta
 end
+
